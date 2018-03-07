@@ -1,0 +1,7 @@
+name: BowHitAlert
+version: 1.0
+api: ["1.0.0"]
+main: gt.creeperface.bowhitalert.BowHitAlert
+author: CreeperFace
+description: "Plays a sound to shooter when they hit a player"
+depend: ["KotlinLib"]
